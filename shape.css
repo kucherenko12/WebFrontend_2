@@ -1,0 +1,23 @@
+.labshape-first
+{
+  position: relative;
+  width: 50px;
+  height: 50px;
+  background: #e3a173;
+  border-radius: 10px;
+  border: 5px solid black;
+  border-style: double;
+}
+
+.labshape-second
+{
+  position: relative;
+  top: -30px; left: 30px;
+  width: 50px;
+  height: 50px;
+  background: #c8a2c8;
+  border-radius: 10px;
+  border: 5px solid black;
+  border-style: double;
+  opacity: 0.75;
+}
